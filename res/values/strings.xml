@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">glassercise</string>
+    <string name="voice_trigger">start a workout</string>
+
+    <!-- Top main level cards -->
+    <string name="main_card_title_todays_workout">Today\'s Workout</string>
+    <string name="main_card_title_my_workouts">My Workouts</string>
+    <string name="main_card_title_workout_library">Workout Library</string>
+    <string name="main_card_title_history">History</string>
+    <string name="main_card_title_tips">Tips</string>
+    <string name="main_card_title_settings">Settings</string>
+
+ </resources>
